@@ -28,3 +28,7 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 - Developed strong understanding of model performance analysis and optimization   
 
 This portfolio reflects hands-on experience in applying AI and ML techniques to real-world datasets and engineering problems.
+
+## Development Environment
+
+All notebooks were developed and executed using Google Colab to leverage cloud-based compute resources. The notebooks were later downloaded and structured into this repository for documentation and portfolio presentation.
