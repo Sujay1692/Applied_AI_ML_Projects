@@ -25,6 +25,6 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 ## Learning Outcomes
 - Built complete machine learning pipelines including preprocessing, feature engineering, training, tuning, and evaluation  
 - Implemented classical ML, ensemble learning, dimensionality reduction, and deep learning models  
-- Developed strong understanding of model performance analysis and optimization  
+- Developed strong understanding of model performance analysis and optimization   
 
 This portfolio reflects hands-on experience in applying AI and ML techniques to real-world datasets and engineering problems.
